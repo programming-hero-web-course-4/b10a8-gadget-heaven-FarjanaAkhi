@@ -25,7 +25,7 @@ export default function AllCategories() {
           <p className="text-purple-600 font-bold text-lg">${product.price}</p>
           <button
             onClick={() => handleClick(product)}
-            className="bg-purple-500 text-white py-2 px-6 rounded-lg hover:bg-purple-600 transition duration-300"
+            className="bg-purple-500 text-white p-3 rounded-xl hover:bg-purple-600 transition duration-300"
           >
             View Details
           </button>

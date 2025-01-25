@@ -2,11 +2,11 @@ import React from 'react'
 import { useLoaderData, useNavigate } from 'react-router-dom'
 
 export default function Laptop() {
-    const products = useLoaderData(); // Access the data fetched by the loader
+    const products = useLoaderData(); 
     const navigate = useNavigate();
   
     const handleClick = (product) => {
-      navigate("/details", { state: { product } }); // Pass the product data to the details page
+      navigate("/details", { state: { product } }); 
     };
   
     return (
@@ -25,7 +25,7 @@ export default function Laptop() {
             <p className="text-purple-600 font-bold text-lg">${product.price}</p>
             <button
               onClick={() => handleClick(product)}
-              className="bg-purple-500 text-white py-2 px-6 rounded-lg hover:bg-purple-600 transition duration-300"
+              className="bg-purple-500 text-white p-3 rounded-xl hover:bg-purple-600 transition duration-300"
             >
               View Details
             </button>
