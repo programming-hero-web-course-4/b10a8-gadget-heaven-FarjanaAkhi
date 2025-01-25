@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Gaming Laptop",
+      "product_image": "https://i.ibb.co/mBstFM4/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+      "category": "Laptop",
+      "price": 1500,
+      "description": "A powerful gaming laptop for all your gaming needs.",
+      "specifications": ["16GB RAM", "1TB SSD", "RTX 3070"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 2,
+      "product_title": "Work Laptop",
+      "product_image": "https://i.ibb.co/mBstFM4/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+      "category": "Laptop",
+      "price": 1200,
+      "description": "A sleek and efficient laptop for work.",
+      "specifications": ["8GB RAM", "512GB SSD", "Intel i7"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 3,
+      "product_title": "Ultrabook",
+      "product_image": "https://i.ibb.co/mBstFM4/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+      "category": "Laptop",
+      "price": 1100,
+      "description": "Lightweight and powerful ultrabook for professionals.",
+      "specifications": ["16GB RAM", "512GB SSD", "Intel i5"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "product_title": "Student Laptop",
+      "product_image": "https://i.ibb.co/mBstFM4/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+      "category": "Laptop",
+      "price": 800,
+      "description": "Affordable laptop designed for students.",
+      "specifications": ["8GB RAM", "256GB SSD", "Intel i3"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 5,
+      "product_title": "Business Laptop",
+      "product_image": "https://i.ibb.co/mBstFM4/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+      "category": "Laptop",
+      "price": 1400,
+      "description": "A laptop optimized for business needs.",
+      "specifications": ["16GB RAM", "1TB SSD", "Intel i7"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 6,
+      "product_title": "Budget Laptop",
+      "product_image": "https://i.ibb.co/mBstFM4/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+      "category": "Laptop",
+      "price": 600,
+      "description": "A budget-friendly laptop with essential features.",
+      "specifications": ["4GB RAM", "256GB SSD", "Intel i3"],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": 7,
+      "product_title": "Smartphone Pro",
+      "product_image": "https://i.ibb.co/qDJYLzV/onur-binay-0k-VFW0-LLf-Y-unsplash.jpg",
+      "category": "Phone",
+      "price": 999,
+      "description": "A high-performance smartphone with stunning camera features.",
+      "specifications": ["128GB Storage", "5G", "AMOLED Display"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 8,
+      "product_title": "Budget Smartphone",
+      "product_image": "https://i.ibb.co/qDJYLzV/onur-binay-0k-VFW0-LLf-Y-unsplash.jpg",
+      "category": "Phone",
+      "price": 499,
+      "description": "An affordable smartphone with all the basic features.",
+      "specifications": ["64GB Storage", "4G", "LCD Display"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 9,
+      "product_title": "Fitness Smartwatch",
+      "product_image": "https://i.ibb.co/TMqhHBV/david-preston-zhnvtl5x-Qgk-unsplash.jpg",
+      "category": "Smartwatch",
+      "price": 300,
+      "description": "Track your fitness goals with this smartwatch.",
+      "specifications": ["Heart Rate Monitor", "GPS", "Waterproof"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 10,
+      "product_title": "Premium Smartwatch",
+      "product_image": "https://i.ibb.co/TMqhHBV/david-preston-zhnvtl5x-Qgk-unsplash.jpg",
+      "category": "Smartwatch",
+      "price": 500,
+      "description": "A stylish smartwatch with premium features.",
+      "specifications": ["Voice Assistant", "ECG Monitoring", "AMOLED Display"],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+  

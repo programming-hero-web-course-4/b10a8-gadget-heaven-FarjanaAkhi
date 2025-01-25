@@ -1,0 +1,25 @@
+[
+    {
+      "product_id": 9,
+      "product_title": "Fitness Smartwatch",
+      "product_image": "https://i.ibb.co/TMqhHBV/david-preston-zhnvtl5x-Qgk-unsplash.jpg",
+      "category": "Smartwatch",
+      "price": 300,
+      "description": "Track your fitness goals with this smartwatch.",
+      "specifications": ["Heart Rate Monitor", "GPS", "Waterproof"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 10,
+      "product_title": "Premium Smartwatch",
+      "product_image": "https://i.ibb.co/TMqhHBV/david-preston-zhnvtl5x-Qgk-unsplash.jpg",
+      "category": "Smartwatch",
+      "price": 500,
+      "description": "A stylish smartwatch with premium features.",
+      "specifications": ["Voice Assistant", "ECG Monitoring", "AMOLED Display"],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+  

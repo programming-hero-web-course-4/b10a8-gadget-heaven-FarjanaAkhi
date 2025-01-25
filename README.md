@@ -1,8 +1,14 @@
-# React + Vite
+A React-based e-commerce platform designed for GadgetHaven, a gadget-buying website. This project features a seamless user interface inspired by a detailed Figma design, offering functionalities such as navigation, product filtering, and cart management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+1 . Navigation: Structured navigation bar for easy browsing.
+2 . Product Pages: Organized categories and individual product details.
+3 .Shopping Cart & Wishlist: Add, view, and manage items using the Context API with optional LocalStorage for persistence.
+4 .Filtering & Sorting: Filter products by category and sort by price.
 
-Currently, two official plugins are available:
+Frontend: React, Tailwind CSS, React Router.
+State Management: Context API/local storage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
